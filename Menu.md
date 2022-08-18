@@ -1,17 +1,21 @@
 # KU Cafe Menu
-
+    
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
 
 ## Dinner
 
+| Item                      | Price    |
+|:--------------------------|----------|
+| Beefsteak with salad      | 499      |
+| Spaghetti carbonara       | 89       |
+| Tom Yum Kung              | 150      |
+| Noodles                   | 45       |
+| Chicken Curry Rice        | 50       |
 
 ## Night Food
 

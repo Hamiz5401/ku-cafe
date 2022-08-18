@@ -1,9 +1,19 @@
 # KU Cafe
 
-Section1 | [Lunch](Menu.md#lunch)  | Section3 | ...
-
+[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch)
 
 ## Drive-Thru
+
+### Breakfast
+
+| Item         | Price |
+|:-------------|-------|
+| Fried egg    | 35    |
+| Salad        | 60    |
+| Fish n chips | 80    |
+| Waffles      | 50    |
+
+### Lunch
 
 | Items                   | Price |
 |:------------------------|-------|
@@ -15,7 +25,7 @@ Section1 | [Lunch](Menu.md#lunch)  | Section3 | ...
 
 ## About Us
 
-| Name                | Role       | Github       |
-|:--------------------|------------|--------------|
-| Phukit Santipiyakun | Lunch-menu | @Phukit-Time |
-
+| Name                 | Role           | Github       |
+|:---------------------|----------------|--------------|
+| Kittiporn Theamnooch | Breakfast-menu | @Hamiz5401   |
+| Phukit Santipiyakun  | Lunch-menu     | @Phukit-Time |

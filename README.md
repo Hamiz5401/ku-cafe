@@ -10,7 +10,7 @@
 | Water                    | 10       |
 | Coke                     | 15       |
 | Sprite                   | 15       |
-| coffee                   | 125      |
+| Coffee                   | 125      |
 | Regency                  | 400      |    
 
 

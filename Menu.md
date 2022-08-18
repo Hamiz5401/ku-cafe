@@ -1,5 +1,5 @@
 # KU Cafe Menu
-
+[Night Food](#Night food)
 
 ## Breakfast
 

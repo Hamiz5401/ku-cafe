@@ -1,6 +1,6 @@
 # KU Cafe
 
- |  |  | [Night Food](Menu.md) | 
+ |  |  |  | 
 
 
 ## Drive-Thru

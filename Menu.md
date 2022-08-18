@@ -3,10 +3,7 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
+    
 ## Lunch 
 
 
@@ -14,7 +11,14 @@
 
 
 ## Night Food
-
+    Items                         Price
+    Khao Tom Mud                   15 
+    soy milk                       20
+    sliced apple                   20
+    Pa Tong Go(1 piece)             1 
+    Kai parm                       15
+    Glutinous rice & Perilla seed  15
+    Ong poo                        90
 
 ## Beverages
 

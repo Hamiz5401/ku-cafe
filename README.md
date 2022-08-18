@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch)
+[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner)
 
 ## Drive-Thru
 
@@ -23,9 +23,20 @@
 | Salad                   | 55    |
 | Noodle                  | 50    |
 
+### Dinner
+
+| Item                      | Price    |
+|:--------------------------|----------|
+| Beefsteak with salad      | 499      |
+| Spaghetti carbonara       | 89       |
+| Tom Yum Kung              | 150      |
+| Noodles                   | 45       |
+| Chicken Curry Rice        | 50       |
+
 ## About Us
 
-| Name                 | Role           | Github       |
-|:---------------------|----------------|--------------|
-| Kittiporn Theamnooch | Breakfast-menu | @Hamiz5401   |
-| Phukit Santipiyakun  | Lunch-menu     | @Phukit-Time |
+| Name                   | Role           | Github       |
+|:-----------------------|----------------|--------------|
+| Kittiporn Theamnooch   | Breakfast-menu | @Hamiz5401   |
+| Phukit Santipiyakun    | Lunch-menu     | @Phukit-Time |
+| Kaopong Sangkittiyakorn| Dinner Menu    | @kuikaopong  |

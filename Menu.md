@@ -1,6 +1,6 @@
 # KU Cafe Menu
 
-[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner) | [Night Food](Menu.md#night-food) | [Beverages](Menu.md#beverages)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night](#night-food) | [Beverages](#beverages)
 
 ## Breakfast
 
@@ -10,7 +10,6 @@
 | Salad        | 60    |
 | Fish n chips | 80    |
 | Waffles      | 50    |
- 
 
 ## Lunch 
 
@@ -24,6 +23,13 @@
 
 ## Dinner
 
+| Item                      | Price    |
+|:--------------------------|----------|
+| Beefsteak with salad      | 499      |
+| Spaghetti carbonara       | 89       |
+| Tom Yum Kung              | 150      |
+| Noodles                   | 45       |
+| Chicken Curry Rice        | 50       |
 
 ## Night Food
 

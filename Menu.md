@@ -17,7 +17,14 @@
 
 
 ## Beverages
-
+    
+| Item                     | Price    |
+|:-------------------------|----------|
+| Water                    | 10       |
+| Coke                     | 15       |
+| Sprite                   | 15       |
+| coffee                   | 125      |
+| Regency                  | 400      |       
 
 
 ---

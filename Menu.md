@@ -9,6 +9,13 @@
 
 ## Lunch 
 
+| Item                        | Price |
+|:----------------------------|-------|
+| Fries Chicken with rice     | 50    |
+| Pizza                       | 100   |
+| Curry rice                  | 55    |
+| Salad                       | 55    |
+| Noodle                      | 50    |
 
 ## Dinner
 

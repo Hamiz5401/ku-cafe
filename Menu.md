@@ -13,13 +13,12 @@
 ## Night Food
     Items                         Price
     Khao Tom Mud                   15 
-    soy milk                       20
-    sliced apple                   20
+    Soy milk                       20
+    Sliced apple                   20
     Pa Tong Go(1 piece)             1 
     Kai parm                       15
     Glutinous rice & Perilla seed  15
-    Ong poo                        90
-
+    Ong poo(4 piece)               90
 ## Beverages
 
 

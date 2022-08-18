@@ -3,9 +3,13 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item         | Price |
+|:-------------|-------|
+| Fried egg    | 35    |
+| Salad        | 60    |
+| Fish n chips | 80    |
+| Waffles      | 50    |
+ 
 
 ## Lunch 
 

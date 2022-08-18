@@ -2,6 +2,7 @@
 
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night](#night-food) | [Beverages](#beverages)
 
+
 ## Breakfast
 
 

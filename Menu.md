@@ -42,8 +42,16 @@
 |Kai parm                      |      15|
 |Glutinous rice & Perilla seed |      15|
 |Ong poo(4 piece)              |      90|
-## Beverages
 
+## Beverages
+    
+| Item                     | Price    |
+|:-------------------------|----------|
+| Water                    | 10       |
+| Coke                     | 15       |
+| Sprite                   | 15       |
+| Coffee                   | 125      |
+| Regency                  | 400      |       
 
 
 ---

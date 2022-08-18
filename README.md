@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner) | [Night Food](Menu.md#night-food) 
+[Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner) | [Night Food](Menu.md#night-food) | [Beverages](Menu.md#beverages)
 
 ## Drive-Thru
 
@@ -9,47 +9,58 @@
 | Item         | Price |
 |:-------------|-------|
 | Fried egg    | 35    |
-| Salad        | 60    |
 | Fish n chips | 80    |
+| Salad        | 60    |
 | Waffles      | 50    |
 
 ### Lunch
 
 | Items                   | Price |
 |:------------------------|-------|
-| Fries Chicken with rice | 50    |
-| Pizza                   | 100   |
 | Curry rice              | 55    |
-| Salad                   | 55    |
+| Fries Chicken with rice | 50    |
 | Noodle                  | 50    |
+| Pizza                   | 100   |
+| Salad                   | 55    |
 
 ### Dinner
 
 | Item                      | Price    |
 |:--------------------------|----------|
 | Beefsteak with salad      | 499      |
+| Chicken Curry Rice        | 50       |
+| Noodles                   | 45       |
 | Spaghetti carbonara       | 89       |
 | Tom Yum Kung              | 150      |
-| Noodles                   | 45       |
-| Chicken Curry Rice        | 50       |
 
 ### Night food
 
-|Items                         |   Price|
+|Items                         | Price  |
 |:-----------------------------|--------|
-|Khao Tom Mud                  |     15 |
-|Soy milk                      |      20|
-|Sliced apple                  |      20|
-|Pa Tong Go(1 piece)           |      1 |
-|Kai parm                      |      15|
-|Glutinous rice & Perilla seed |      15|
-|Ong poo(4 piece)              |      90|
+|Glutinous rice & Perilla seed | 15     |
+|Kai parm                      | 15     |
+|Khao Tom Mud                  | 15     | 
+|Ong poo(4 piece)              | 90     |
+|Pa Tong Go(1 piece)           | 1      |
+|Soy milk                      | 20     |
+|Sliced apple                  | 20     |
+
+### Beverages
+
+| Item                     | Price    |
+|:-------------------------|----------|
+| Coffee                   | 125      |
+| Coke                     | 15       |
+| Regency                  | 400      |
+| Sprite                   | 15       |
+| Water                    | 10       | 
 
 ## About Us
 
 | Name                   | Role           | Github       |
 |:-----------------------|----------------|--------------|
-| Kittiporn Theamnooch   | Breakfast-menu | @Hamiz5401   |
-| Phukit Santipiyakun    | Lunch-menu     | @Phukit-Time |
 | Kaopong Sangkittiyakorn| Dinner Menu    | @kuikaopong  |
+| Kittiporn Theamnooch   | Breakfast-menu | @Hamiz5401   |
 | Korkatta Wasusophaphon | Night-food-menu| @koakatta    |
+| Phukit Santipiyakun    | Lunch-menu     | @Phukit-Time |
+| Woraphan Sutthiboon    | Beverages-menu | @Unikorn996  |

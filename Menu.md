@@ -1,4 +1,5 @@
 # KU Cafe Menu
+
 [Breakfast](Menu.md#breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner) | [Night Food](Menu.md#night-food) | [Beverages](Menu.md#beverages)
 
 ## Breakfast
@@ -13,6 +14,13 @@
 
 ## Lunch 
 
+| Item                        | Price |
+|:----------------------------|-------|
+| Fries Chicken with rice     | 50    |
+| Pizza                       | 100   |
+| Curry rice                  | 55    |
+| Salad                       | 55    |
+| Noodle                      | 50    |
 
 ## Dinner
 
